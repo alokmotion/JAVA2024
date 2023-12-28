@@ -64,6 +64,8 @@ public class WaysOfArrayCreating {
 		}
 		
 		
+//		2nd Ways
+		
 		
 		
 		
