@@ -30,7 +30,7 @@ public class CheckSortedArray {
 //			System.out.println(0);
 //		}
 		
-//		
+//		2nd ways use this 
 		
 		
 		for(int i =0; i<arr.length-1; i++) {
