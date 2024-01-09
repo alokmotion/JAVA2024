@@ -18,8 +18,7 @@ public class CheckSortedArray {
 					
 				} 
 				
-			}
-			
+			}	
 			
 		}
 		if(result) {
