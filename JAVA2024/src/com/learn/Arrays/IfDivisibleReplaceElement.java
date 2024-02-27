@@ -23,6 +23,8 @@ public class IfDivisibleReplaceElement {
 			System.out.print(arr[i]+ " ");
 				
 		}
+		
+//		make the condition 
 		System.out.println();
 		
 		for(int i = 0; i<=arr.length-1; i++) {
