@@ -16,9 +16,6 @@ public class SwappingArrayElements {
 			
 		}
 		
-		
-		
-		
 		// asking the index value which have to perform swapping 
 		System.out.println("Enter the tow index value which have to perform swapping action");
 		int i1 = scan.nextInt();
@@ -42,11 +39,6 @@ public class SwappingArrayElements {
 		for(int x : arr) {
 			System.out.print(x+ " ");
 		}
-		
-		
-		
-		
-		
 
 	}
 
