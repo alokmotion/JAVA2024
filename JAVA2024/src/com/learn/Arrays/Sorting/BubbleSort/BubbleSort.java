@@ -10,6 +10,7 @@ public class BubbleSort {
 			//traversing to all element in each itration
 			for(int j =0; j<arr.length-i-1; j++) {
 				//checking whether jth element is grater than j+1 or next element
+				// for decending order use <  in place of >
 				if(arr[j]>arr[j+1]) {
 					//if arr[j] > arr[j+1] then perform swapping 
 					temp = arr[j];
