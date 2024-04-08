@@ -18,7 +18,6 @@ public class ReverseString {
 			j--;
 			
 		}
-		
 		String rStr = new String(arr);
 		System.out.println(rStr);
 		
